@@ -1,5 +1,5 @@
 # AppliFrais
-Projet BTS - AppliFrais permettant la consultation de fiches de frais.
+AppliFrais permettant la consultation de fiches de frais.
 
 <br><br><br>
 
